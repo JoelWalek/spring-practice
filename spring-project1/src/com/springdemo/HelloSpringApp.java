@@ -2,6 +2,7 @@ package com.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+//test class for beginning spring using xml
 public class HelloSpringApp {
 
 	public static void main(String[] args) {

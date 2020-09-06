@@ -1,5 +1,6 @@
 package com.springdemo;
 
+//first test class to ensure classes work before using Spring
 public class MyApp {
 
 	public static void main(String[] args) {

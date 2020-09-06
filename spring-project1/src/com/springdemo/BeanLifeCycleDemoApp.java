@@ -2,6 +2,7 @@ package com.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+//test class to test life cycle of beans
 public class BeanLifeCycleDemoApp {
 
 	public static void main(String[] args) {

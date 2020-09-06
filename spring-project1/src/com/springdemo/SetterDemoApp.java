@@ -2,6 +2,7 @@ package com.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+//test class to test additional setter methods
 public class SetterDemoApp {
 
 	public static void main(String[] args) {

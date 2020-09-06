@@ -2,6 +2,7 @@ package com.springdemo;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+//test class for bean scope
 public class BeanScopeDemoApp {
 
 	public static void main(String[] args) {
